@@ -86,7 +86,7 @@ function AddTaskModal({ isOpen, closeModal }) {
             >
               <option value="todo">To Do</option>
               <option value="in-progress">In Progress</option>
-              <option value="done">Done</option>
+              <option value="completed">Done</option>
             </select>
           </div>
         </div>
